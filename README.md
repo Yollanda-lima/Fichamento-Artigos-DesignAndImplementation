@@ -19,4 +19,4 @@ O artigo aborda a necessidade da farmácia Sugosha em desenvolver uma aplicaçã
 * "_After getting the results from the interview stage, analysis and discussion are carried out to create a persona that helps determine what users will use the product."_
 * _"The solution design stage is developing a solution based on the needs obtained at the specify user requirements stage."_
 * "_User-centered design is an iterative design process that requires designers to focus on users and their needs at every phase of the design process."_
-* "_esting of user interface designs is carried out using the system usability scale (SUS) method with the help of Google forms."_
+* "_Esting of user interface designs is carried out using the system usability scale (SUS) method with the help of Google forms."_
