@@ -1,34 +1,18 @@
-`Atenção: Este template deve ser EXCLUÍDO do seu repositório.`
-
-
-`No início do fchamento, você deve incluir, o título do Artigo sobre o qual o fichamento está sendo feito, exemplo:`
-
 # Design and Implementation of User Interface and User Experience in Online Sales Applications At Sugosha Pharmacy With User Centered Design Method
 
-`Aqui deve-se colocar uma linha com a referência completa do artigo, exemplo:`
-
-Ponciano, Lesandro; Brasileiro,  Francisco; Simpson, Robert; Smith, Arfon. "Volunteers' Engagement in Human Computation for Astronomy Projects," in Computing in Science & Engineering, vol. 16, no. 6, pp. 52-59, Nov.-Dec. 2014. doi: [10.1109/MCSE.2014.4](https://doi.org/10.1109/MCSE.2014.4)
+K. Gustiana Sugosha, R. Andreswari and M. Hardiyanti, "Design and Implementation of User Interface and User Experience in Online Sales Applications At Sugosha Pharmacy With User Centered Design Method," 2021 International Conference on Advanced Computer Science and Information Systems (ICACSIS), Depok, Indonesia, 2021, pp. 1-5, doi: 10.1109/ICACSIS53237.2021.9631344. keywords: {Drugs;COVID-19;Computer science;User centered design;User interfaces;User experience;Electronic commerce;User Experience;User Interface;User Centered Design;E-Commerce;pharmacies},
 
 ## 1. Fichamento de Conteúdo
-
-`Aqui deve-se incluir uma análise geral do artigo em um parágrafo de  8 a 15 linhas. É um texto corrido nas palavras da pessoa que está fazendo o fichamento (não deve ter cópia literal de conteúdo do artigo). Pode conter opinião do leitor a partir do texto. Idealmente deve mencionar o contexto tratado pelo artigo, o problema que ele tenta resolver, o(s) método(s) que ele emprega e o(s) resultado(s) que obtém. O texto deve ser uma forma simples que resume o que se entendeu do artigo. Exemplo:`
-
 
 O artigo aborda a necessidade da farmácia Sugosha em desenvolver uma aplicação de vendas online devido à crescente demanda e às restrições impostas pela pandemia de COVID-19. Utilizando a metodologia de Design Centrado no Usuário (UCD), o estudo segue um processo iterativo que envolve entender o contexto de uso, especificar os requisitos dos usuários, projetar soluções e avaliar em relação a esses requisitos. Isso inclui a criação de personas com base em entrevistas, a identificação de recursos necessários e a elaboração de wireframes e mockups para visualizar o design proposto. Os testes de usabilidade, conduzidos por meio da Escala de Usabilidade do Sistema (SUS) e testes de caixa-preta, revelaram uma boa aceitação do design pelos usuários, com pontuações "bom" e "excelente" para as seções de vendedores e compradores, respectivamente. A implementação bem-sucedida da interface do usuário, utilizando o framework Reactjs, reflete a eficácia da abordagem UCD na criação de uma experiência de usuário eficiente e satisfatória.
 
 ## 2. Fichamento Bibliográfico 
-
-`Nesta parte, ideias e conceitos que aparecem no artigo devem ser organizados e descritos com as palavras do leitor, e, idealmente, devem ser indicadas as páginas onde aparecem no texto. Deve-se incluir de 3 a 6  itens. Exemplo:`
-
 
 * _Personas_ (Personagens)são representações fictícias dos usuários finais, baseadas em dados reais coletados por meio de entrevistas e pesquisas (página 2).
 * _Wireframes_ são esboços de baixa fidelidade que representam a estrutura básica de uma página ou aplicativo. (página 3).
 * _Sistema Usability Scale (SUS)_ (escala de usabilidade do sistema) é um método utilizado para avaliar a usabilidade de produtos ou serviços, através de um questionário padronizado (página 4).
 
 ## 3. Fichamento de Citações 
-
-`Aqui devem ser adicionadas as frases mais importantes que aparecem no artigo. Deve ser uma transcrição exata de como estão escritas no artigo, devem ficar entre aspas. Esse fichamento é importante para que possa identificar facilmente como o autor do artigo descreveu um conceito, teoria, método, resultado etc. Deve-se incluir de 3 a 6  itens. Exemplo:`
-
 
 * _"Researchers identify what users need from the application by creating personas, journey map, a list of user needs features, and application diagrams."_
 * _"The interview was conducted by preparing several questions to be asked and the interview was conducted in the type of structured interview."_
